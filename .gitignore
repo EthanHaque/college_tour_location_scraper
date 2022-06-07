@@ -2,5 +2,6 @@
 chromedriver.exe
 /.idea
 old_data_backup.zip
-/data
+/data/all_media/*
+/data/tour_media_info/*
 data.zip
