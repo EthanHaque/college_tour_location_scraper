@@ -1,2 +1,6 @@
 /.ipynb_checkpoints
 chromedriver.exe
+/.idea
+old_data_backup.zip
+/data
+data.zip
