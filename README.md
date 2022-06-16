@@ -1,5 +1,7 @@
 # College Tour Location Scraper
 
+Work for Princeton's Stigma and Social Perception Lab.
+
 Scrapes the website [https://www.youvisit.com/collegesearch/](https://www.youvisit.com/collegesearch/) for the images 
 and locations colleges bring people on in their virtual tours.
 
